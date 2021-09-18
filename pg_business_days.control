@@ -1,0 +1,4 @@
+# pg_business_days extension
+comment = 'functions for handling business days'
+default_version = '1.0'
+relocatable = true
